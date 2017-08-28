@@ -1,0 +1,28 @@
+section { 
+    display: flex;
+    justify-content: space-around;    
+}
+
+button {
+    
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+#map {
+  height: 400px;
+  width: 75%;
+ }
+
+
+.myClass {
+    min-width: 300px;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom; 10px;
+    box-shadow: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px grey;
+    
